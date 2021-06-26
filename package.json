@@ -11,7 +11,10 @@
     "name": "Kinjal Raykarmakar"
   },
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/Kinjalrk2k/colors-contrasted",
+  "repository": {
+    "url": "https://github.com/Kinjalrk2k/colors-contrasted"
+  },
   "categories": [
     "Themes"
   ],
