@@ -10,9 +10,11 @@
   "author": {
     "name": "Kinjal Raykarmakar"
   },
+  "icon": "images/icon.png",
   "license": "MIT",
   "homepage": "https://github.com/Kinjalrk2k/colors-contrasted",
   "repository": {
+    "type": "git",
     "url": "https://github.com/Kinjalrk2k/colors-contrasted"
   },
   "categories": [
