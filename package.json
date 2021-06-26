@@ -1,0 +1,27 @@
+{
+  "name": "colors-contrasted",
+  "displayName": "Colors Contrasted",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "publisher": "KinjalRaykarmakar",
+  "author": {
+    "name": "Kinjal Raykarmakar"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Colors Contrasted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Colors Contrasted-color-theme.json"
+      }
+    ]
+  }
+}
