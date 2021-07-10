@@ -1,8 +1,8 @@
 {
   "name": "colors-contrasted",
   "displayName": "Colors Contrasted",
-  "description": "",
-  "version": "0.0.2",
+  "description": "This theme is based on Community Material Theme and Andromeda",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.57.0"
   },
@@ -28,5 +28,12 @@
         "path": "./themes/Colors Contrasted-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "dark",
+    "contrast",
+    "theme",
+    "material",
+    "andromeda"
+  ]
 }

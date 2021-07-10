@@ -939,6 +939,7 @@
     "listFilterWidget.noMatchesOutline": "#00000030",
     "tree.indentGuidesStroke": "#3B3F51",
     "activityBarBadge.background": "#f47100",
-    "statusBar.foreground": "#a3a8b9"
+    "statusBar.foreground": "#a3a8b9",
+    "quickInputList.focusBackground": "#0f111a"
   }
 }
